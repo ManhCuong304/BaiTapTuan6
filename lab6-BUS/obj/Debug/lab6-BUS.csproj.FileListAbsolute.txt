@@ -1,0 +1,15 @@
+C:\Users\Nmcuo\source\repos\Lab6\lab6-BUS\bin\Debug\lab6-BUS.dll
+C:\Users\Nmcuo\source\repos\Lab6\lab6-BUS\bin\Debug\lab6-BUS.pdb
+C:\Users\Nmcuo\source\repos\Lab6\lab6-BUS\bin\Debug\lab6-DAL.dll
+C:\Users\Nmcuo\source\repos\Lab6\lab6-BUS\bin\Debug\lab6-DAL.pdb
+C:\Users\Nmcuo\source\repos\Lab6\lab6-BUS\obj\Debug\lab6-BUS.csproj.AssemblyReference.cache
+C:\Users\Nmcuo\source\repos\Lab6\lab6-BUS\obj\Debug\lab6-BUS.csproj.CoreCompileInputs.cache
+C:\Users\Nmcuo\source\repos\Lab6\lab6-BUS\obj\Debug\lab6-BUS.csproj.Up2Date
+C:\Users\Nmcuo\source\repos\Lab6\lab6-BUS\obj\Debug\lab6-BUS.dll
+C:\Users\Nmcuo\source\repos\Lab6\lab6-BUS\obj\Debug\lab6-BUS.pdb
+C:\Users\Nmcuo\source\repos\Lab6\lab6-BUS\bin\Debug\lab6-BUS.dll.config
+C:\Users\Nmcuo\source\repos\Lab6\lab6-BUS\bin\Debug\EntityFramework.dll
+C:\Users\Nmcuo\source\repos\Lab6\lab6-BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nmcuo\source\repos\Lab6\lab6-BUS\bin\Debug\lab6-DAL.dll.config
+C:\Users\Nmcuo\source\repos\Lab6\lab6-BUS\bin\Debug\EntityFramework.xml
+C:\Users\Nmcuo\source\repos\Lab6\lab6-BUS\bin\Debug\EntityFramework.SqlServer.xml

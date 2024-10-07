@@ -1,0 +1,12 @@
+C:\Users\Nmcuo\source\repos\Lab6\lab6-DAL\bin\Debug\lab6-DAL.dll
+C:\Users\Nmcuo\source\repos\Lab6\lab6-DAL\bin\Debug\lab6-DAL.pdb
+C:\Users\Nmcuo\source\repos\Lab6\lab6-DAL\obj\Debug\lab6-DAL.csproj.AssemblyReference.cache
+C:\Users\Nmcuo\source\repos\Lab6\lab6-DAL\obj\Debug\lab6-DAL.csproj.CoreCompileInputs.cache
+C:\Users\Nmcuo\source\repos\Lab6\lab6-DAL\obj\Debug\lab6-DAL.dll
+C:\Users\Nmcuo\source\repos\Lab6\lab6-DAL\obj\Debug\lab6-DAL.pdb
+C:\Users\Nmcuo\source\repos\Lab6\lab6-DAL\bin\Debug\lab6-DAL.dll.config
+C:\Users\Nmcuo\source\repos\Lab6\lab6-DAL\bin\Debug\EntityFramework.dll
+C:\Users\Nmcuo\source\repos\Lab6\lab6-DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nmcuo\source\repos\Lab6\lab6-DAL\bin\Debug\EntityFramework.xml
+C:\Users\Nmcuo\source\repos\Lab6\lab6-DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nmcuo\source\repos\Lab6\lab6-DAL\obj\Debug\lab6-DAL.csproj.Up2Date

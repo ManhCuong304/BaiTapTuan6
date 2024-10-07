@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nmcuo\\source\\repos\\Lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E7819B-7D03-4C9E-967B-AFDEC05AC11E}|Lab6\\Lab6-GUI.csproj|c:\\users\\nmcuo\\source\\repos\\lab6\\lab6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E7819B-7D03-4C9E-967B-AFDEC05AC11E}|Lab6\\Lab6-GUI.csproj|solutionrelative:lab6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E7819B-7D03-4C9E-967B-AFDEC05AC11E}|Lab6\\Lab6-GUI.csproj|C:\\Users\\Nmcuo\\source\\repos\\Lab6\\lab6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1E7819B-7D03-4C9E-967B-AFDEC05AC11E}|Lab6\\Lab6-GUI.csproj|solutionrelative:lab6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{547BFFAD-6535-450D-BA25-3575D24988A9}|lab6-BUS\\lab6-BUS.csproj|c:\\users\\nmcuo\\source\\repos\\lab6\\lab6-bus\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{547BFFAD-6535-450D-BA25-3575D24988A9}|lab6-BUS\\lab6-BUS.csproj|solutionrelative:lab6-bus\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EAF1E7-D10A-4078-AAD4-3869625727CC}|lab6-DAL\\lab6-DAL.csproj|c:\\users\\nmcuo\\source\\repos\\lab6\\lab6-dal\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EAF1E7-D10A-4078-AAD4-3869625727CC}|lab6-DAL\\lab6-DAL.csproj|solutionrelative:lab6-dal\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E7819B-7D03-4C9E-967B-AFDEC05AC11E}|Lab6\\Lab6-GUI.csproj|c:\\users\\nmcuo\\source\\repos\\lab6\\lab6\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E7819B-7D03-4C9E-967B-AFDEC05AC11E}|Lab6\\Lab6-GUI.csproj|solutionrelative:lab6\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Nmcuo\\source\\repos\\Lab6\\lab6-DAL\\Student.cs",
+              "RelativeDocumentMoniker": "lab6-DAL\\Student.cs",
+              "ToolTip": "C:\\Users\\Nmcuo\\source\\repos\\Lab6\\lab6-DAL\\Student.cs",
+              "RelativeToolTip": "lab6-DAL\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:38:00.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Nmcuo\\source\\repos\\Lab6\\lab6-BUS\\StudentService.cs",
+              "RelativeDocumentMoniker": "lab6-BUS\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Nmcuo\\source\\repos\\Lab6\\lab6-BUS\\StudentService.cs",
+              "RelativeToolTip": "lab6-BUS\\StudentService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:29:50.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nmcuo\\source\\repos\\Lab6\\Lab6\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Lab6\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Nmcuo\\source\\repos\\Lab6\\Lab6\\Form1.Designer.cs",
+              "RelativeToolTip": "Lab6\\Form1.Designer.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAawLAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:25:49.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Nmcuo\\source\\repos\\Lab6\\Lab6\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab6\\Form1.cs",
+              "ToolTip": "C:\\Users\\Nmcuo\\source\\repos\\Lab6\\Lab6\\Form1.cs",
+              "RelativeToolTip": "Lab6\\Form1.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAEwJYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:03:51.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nmcuo\\source\\repos\\Lab6\\Lab6\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab6\\Form1.cs",
+              "ToolTip": "C:\\Users\\Nmcuo\\source\\repos\\Lab6\\Lab6\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab6\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T00:39:03.533Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
